@@ -1,3 +1,4 @@
+![ts bootcamp](./ts_bootcamp.png)
 # 🚀 TypeScript Bootcamp 🚀
 
 ## 🧩 1. Deklarera variabler med olika datatyper

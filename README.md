@@ -1,6 +1,6 @@
 ![ts bootcamp](./ts_bootcamp.png)
 # 🚀 TypeScript Bootcamp 🚀
-<so-cut label="[Code]"> code </so-cut >
+
 ## 🧩 1a Skapa ett nytt npm-projekt. 
 Installera TypeScript med npm typescript . Skapa konfigurationsfil med tsc --init . Du ska kunna skriva package.json-skript som kör "tsc" i terminalen.
 Målet är att kunna omvandla en TypeScript-fil till vanlig JavaScript.

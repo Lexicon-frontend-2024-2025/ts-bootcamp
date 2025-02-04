@@ -1,13 +1,16 @@
 ![ts bootcamp](./ts_bootcamp.png)
 # 🚀 TypeScript Bootcamp 🚀
 
-## 🧩 1a Skapa ett nytt npm-projekt. Installera TypeScript med npm typescript . Skapa konfigurationsfil med tsc --init . Du ska kunna skriva package.json-skript som kör "tsc" i terminalen.
+## 🧩 1a Skapa ett nytt npm-projekt. 
+Installera TypeScript med npm typescript . Skapa konfigurationsfil med tsc --init . Du ska kunna skriva package.json-skript som kör "tsc" i terminalen.
 Målet är att kunna omvandla en TypeScript-fil till vanlig JavaScript.
 
-## 🧩 1b Skapa en config-fil för TypeScript. Ställ in outDir så att js-filer läggs i en mapp med namnet dist/. Skriv ett skript som kör tsc.
+## 🧩 1b Skapa en config-fil för TypeScript. 
+Ställ in outDir så att js-filer läggs i en mapp med namnet dist/. Skriv ett skript som kör tsc.
 Tips: npm init -y, npm i -D typescript, npx tsc --init 
 
-## 🧩 1c Skapa filen "src/script.ts" och gör ett skript som kör "dist/script.js". Skriv in:
+## 🧩 1c Skapa filen "src/script.ts" och gör ett skript som kör "dist/script.js". 
+Skriv in:
 let x: string = 42;
 Vad händer? Ta reda på vad felmeddelandet betyder och lös det.
 

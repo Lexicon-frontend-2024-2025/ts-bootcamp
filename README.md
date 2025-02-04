@@ -7,7 +7,7 @@ Målet är att kunna omvandla en TypeScript-fil till vanlig JavaScript.
 
 ### 🧩 1b Skapa en config-fil för TypeScript. 
 Ställ in outDir så att js-filer läggs i en mapp med namnet dist/. Skriv ett skript som kör tsc.
->! Tips: npm init -y, npm i -D typescript, npx tsc --init 
+> spoiler! Tips: npm init -y, npm i -D typescript, npx tsc --init 
 
 ### 🧩 1c Skapa filen "src/script.ts" och gör ett skript som kör "dist/script.js". 
 Skriv in:
@@ -130,11 +130,11 @@ Skriv en funktion som producerar en mening med variabeln. Om color till exempel 
 
 ## 🧩 23. Skriv en loop som kör 10 gånger. 
 Du kan lägga den i en funktion för att få bättre struktur på koden. Loopen ska simulera ett trafikljus och därför omväxlande skriva ut "rött", "gult", "grönt" i den ordningen. En färg per varv i loopen.
->! Tips: du behöver en till variabel, som håller ordning på om det är 1, 2 eller 3 som ska skrivas ut.
+> spoiler! Tips: du behöver en till variabel, som håller ordning på om det är 1, 2 eller 3 som ska skrivas ut.
 
 
 ## 🧩 24. Skriv ett program som skriver ut talen 1 till 20 och om varje tal är udda eller jämnt.
 Tips 1: Du kan använda en variabel för att hålla reda på om variabeln är jämn. let isEven = true 
 Tips 2: Operatorn modulo kan användas för att ta reda på om ett tal är udda eller jämnt.
->! if( x % 2 === 0 ) { /* talet är jämnt */ }
+> spoiler! if( x % 2 === 0 ) { /* talet är jämnt */ }
 
